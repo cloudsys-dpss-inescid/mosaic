@@ -1,8 +1,12 @@
 # Mosaic: Making Serverless Performance-Portable with Lazy Hardware Binding
 
-**Premature Hardware Binding is the Root of all Evil! Making Serverless Performance-Portable with Lazy Hardware Binding.** *Serhii Ivanenko, Carlos Segarra, and Rodrigo Bruno.*
-
 Mosaic is a serverless platform featuring a runtime and a scheduler. The runtime utilizes lazy hardware binding to enable serverless functions to benefit from hardware-specific optimizations.
+
+## Publication
+
+ACM Reference Format:
+
+> Serhii Ivanenko, Carlos Segarra, and Rodrigo Bruno. 2026. Premature Hardware Binding is the Root of all Evil! Making Serverless Performance-Portable with Lazy Hardware Binding. In The 2026 ACM SIGOPS Annual Technical Conference (SIGOPS ATC 2026), November 15-18, 2026, Hong Kong, China. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3828523.3857117
 
 **This artifact accompanies the paper accepted at ATC 2026.**
 
